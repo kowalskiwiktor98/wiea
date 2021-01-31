@@ -1,0 +1,53 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.RenderTree
+@inject HttpClient Http
+
+<h1>WIEA Egzamin Dyplomowy Informatyka 2021</h1>
+
+@if (question is not null)
+{
+    <h2>Pytanie: @question.question</h2>
+    <h4>Przedmiot: @question.subject</h4>
+
+    <button class="btn btn-secondary" @onclick="ShowAnswers ">Pokaż odpowiedzi</button>
+
+    if (showAnswers)
+    {
+        foreach (var answer in question.answers)
+        {
+            <div>
+                <p>Autor: @answer.author</p>
+                <p>Odpowiedź: @answer.answer</p>
+            </div>
+        }
+    }
+}
+
+<button class="btn btn-primary" @onclick="DrawQuestion">Losuj Pytanie</button>
+
+
+@code
+{
+    private IEnumerable<Question> questions;
+    private Question question;
+    private bool showAnswers = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        questions = await Http.GetFromJsonAsync<IEnumerable<Question>>("sample-data/questions.json");
+        DrawQuestion();
+    }
+
+    private void DrawQuestion()
+    {
+        question = questions.ElementAt(new Random().Next(0, questions.Count()));
+        showAnswers = false;
+        StateHasChanged();
+    }
+
+    private void ShowAnswers()
+    {
+        showAnswers = true;
+        StateHasChanged();
+    }
+}
