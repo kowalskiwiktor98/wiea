@@ -1,11 +1,11 @@
 [
   {
-    "subject": "subject1",
-    "question": "question1",
+    "subject": "Życiowe",
+    "question": "Najpierw płatki czy mleko?",
     "answers": [
       {
-        "author": "author1",
-        "answer": "answer1"
+        "author": "Mikołaj",
+        "answer": "To zależy od tego jaką konsystencję płatków chemy uzyskać."
       },
       {
         "author": "author2",
