@@ -1,29 +1,151 @@
 [
   {
-    "subject": "subject1",
-    "question": "question1",
+    "subject": "Algorytmy i struktury danych",
+    "question": "Techniki wyszukiwania danych w tekœcie",
     "answers": [
       {
-        "author": "author1",
-        "answer": "answer1"
-      },
-      {
-        "author": "author2",
-        "answer": "answer2"
+        "author": "",
+        "answer": ""
       }
     ]
   },
   {
-    "subject": "subject2",
-    "question": "question2",
+    "subject": "Algorytmy i struktury danych",
+    "question": "Sortowanie stogowe (heapsort) i szybkie (quicksort), wady, zalety, granice stosowalnoœci",
     "answers": [
       {
-        "author": "author1",
-        "answer": "answer1"
-      },
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Algorytmy i struktury danych",
+    "question": "Drzewa przeszukiwañ binarnych (BST), wady i zalety; rozszerzenia drzew BST zapobiegaj¹ce ich wadom",
+    "answers": [
       {
-        "author": "author2",
-        "answer": "answer2"
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Algorytmy i struktury danych",
+    "question": "Kolejki priorytetowe i ich reprezentacje strukturalne",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Algorytmy i struktury danych",
+    "question": "Tablice haszuj¹ce, techniki haszowania, metody zapobiegania konfliktom w tablicach haszuj¹cych",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów I",
+    "question": "Typy pamiêci w komputerze i ich w³asnoœci",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów I",
+    "question": "Mikroprocesor i jego architektura oraz w³asnoœci",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów I",
+    "question": "Architektury równoleg³e komputerów",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów I",
+    "question": "BIOS i jego funkcje",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów I",
+    "question": "Karty graficzne i sieciowe komputera personalnego",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów II",
+    "question": "Porównanie architektury CISC i RISC",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów II",
+    "question": "Omówiæ przetwarzanie potokowe",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów II",
+    "question": "Architektura harvrdzka i von Neumanna",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów II",
+    "question": "Omówiæ funkcje i dzia³anie jednostki FPU",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "subject": "Architektura komputerów II",
+    "question": "Kodowanie liczb ca³kowitych w systemach komputerowych",
+    "answers": [
+      {
+        "author": "",
+        "answer": ""
       }
     ]
   }
