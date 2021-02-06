@@ -1,7 +1,7 @@
 [
   {
     "subject": "Algorytmy i struktury danych",
-    "question": "Techniki wyszukiwania danych w tekœcie",
+    "question": "Techniki wyszukiwania danych w tekÅ›cie",
     "answers": [
       {
         "author": "",
@@ -11,7 +11,7 @@
   },
   {
     "subject": "Algorytmy i struktury danych",
-    "question": "Sortowanie stogowe (heapsort) i szybkie (quicksort), wady, zalety, granice stosowalnoœci",
+    "question": "Sortowanie stogowe (heapsort) i szybkie (quicksort), wady, zalety, granice stosowalnoÅ›ci",
     "answers": [
       {
         "author": "",
@@ -21,7 +21,7 @@
   },
   {
     "subject": "Algorytmy i struktury danych",
-    "question": "Drzewa przeszukiwañ binarnych (BST), wady i zalety; rozszerzenia drzew BST zapobiegaj¹ce ich wadom",
+    "question": "Drzewa przeszukiwaÅ„ binarnych (BST), wady i zalety; rozszerzenia drzew BST zapobiegajÄ…ce ich wadom",
     "answers": [
       {
         "author": "",
@@ -41,7 +41,7 @@
   },
   {
     "subject": "Algorytmy i struktury danych",
-    "question": "Tablice haszuj¹ce, techniki haszowania, metody zapobiegania konfliktom w tablicach haszuj¹cych",
+    "question": "Tablice haszujÄ…ce, techniki haszowania, metody zapobiegania konfliktom w tablicach haszujÄ…cych",
     "answers": [
       {
         "author": "",
@@ -50,8 +50,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów I",
-    "question": "Typy pamiêci w komputerze i ich w³asnoœci",
+    "subject": "Architektura komputerÃ³w I",
+    "question": "Typy pamiÄ™ci w komputerze i ich wÅ‚asnoÅ›ci",
     "answers": [
       {
         "author": "",
@@ -60,8 +60,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów I",
-    "question": "Mikroprocesor i jego architektura oraz w³asnoœci",
+    "subject": "Architektura komputerÃ³w I",
+    "question": "Mikroprocesor i jego architektura oraz wÅ‚asnoÅ›ci",
     "answers": [
       {
         "author": "",
@@ -70,8 +70,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów I",
-    "question": "Architektury równoleg³e komputerów",
+    "subject": "Architektura komputerÃ³w I",
+    "question": "Architektury rÃ³wnolegÅ‚e komputerÃ³w",
     "answers": [
       {
         "author": "",
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "subject": "Architektura komputerów I",
+    "subject": "Architektura komputerÃ³w I",
     "question": "BIOS i jego funkcje",
     "answers": [
       {
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "subject": "Architektura komputerów I",
+    "subject": "Architektura komputerÃ³w I",
     "question": "Karty graficzne i sieciowe komputera personalnego",
     "answers": [
       {
@@ -100,8 +100,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów II",
-    "question": "Porównanie architektury CISC i RISC",
+    "subject": "Architektura komputerÃ³w II",
+    "question": "PorÃ³wnanie architektury CISC i RISC",
     "answers": [
       {
         "author": "",
@@ -110,8 +110,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów II",
-    "question": "Omówiæ przetwarzanie potokowe",
+    "subject": "Architektura komputerÃ³w II",
+    "question": "OmÃ³wiÄ‡ przetwarzanie potokowe",
     "answers": [
       {
         "author": "",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "subject": "Architektura komputerów II",
+    "subject": "Architektura komputerÃ³w II",
     "question": "Architektura harvrdzka i von Neumanna",
     "answers": [
       {
@@ -130,8 +130,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów II",
-    "question": "Omówiæ funkcje i dzia³anie jednostki FPU",
+    "subject": "Architektura komputerÃ³w II",
+    "question": "OmÃ³wiÄ‡ funkcje i dziaÅ‚anie jednostki FPU",
     "answers": [
       {
         "author": "",
@@ -140,8 +140,8 @@
     ]
   },
   {
-    "subject": "Architektura komputerów II",
-    "question": "Kodowanie liczb ca³kowitych w systemach komputerowych",
+    "subject": "Architektura komputerÃ³w II",
+    "question": "Kodowanie liczb caÅ‚kowitych w systemach komputerowych",
     "answers": [
       {
         "author": "",
